@@ -20,7 +20,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Configuration of Roles, Departments, Teams, Agents, Users, SLAs, and Help Topics
 
-<h2>Configuration Steps</h2>
+<h2>Configuration</h2>
 
 <p>
 <img src="https://i.imgur.com/YmIGzj1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
